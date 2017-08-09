@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>fuqunaga.github.io/categories/</loc>
+    <loc>http://fuquna.ga/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>fuqunaga.github.io/</loc>
+    <loc>http://fuquna.ga/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>fuqunaga.github.io/tags/</loc>
+    <loc>http://fuquna.ga/</loc>
     <priority>0</priority>
   </url>
   
